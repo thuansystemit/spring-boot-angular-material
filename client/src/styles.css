@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+.mat-snack-bar-container {
+    background: rgb(43, 255, 0);
+    color: rgb(10, 8, 8);
+}
